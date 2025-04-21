@@ -11,9 +11,9 @@ const tempStyle = {
 
         <div>
             <p>
-                Temperature : <span style={tempStyle}>{props.temperature}</span>
+                Temperature: <span style={tempStyle}>{props.temperature}</span>
             </p>
-            <p>Condition : {props.conditions}</p>
+            <p>Condition: {props.conditions}</p>
         </div>
     )
 
