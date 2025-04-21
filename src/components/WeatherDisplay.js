@@ -13,7 +13,7 @@ const tempStyle = {
             <p>
                 Temperature: <span style={tempStyle}>{props.temperature}</span>
             </p>
-            <p>Condition: {props.conditions}</p>
+            <p>Conditions: {props.conditions}</p>
         </div>
     )
 
